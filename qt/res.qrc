@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>button/circle.png</file>
+        <file>button/circle_in.png</file>
+    </qresource>
+</RCC>
